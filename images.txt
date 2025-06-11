@@ -1,5 +1,6 @@
 #openjdk:17
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
+jenkinsci/blueocean
 #neo4j:5.22.0
 #zepai/graphiti:latest
 #支持指定架构
