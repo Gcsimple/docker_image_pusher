@@ -1,7 +1,8 @@
 #openjdk:17
 #jenkins/jenkins:lts
-jenkinsci/blueocean
+# jenkinsci/blueocean
 #neo4j:5.22.0
 #zepai/graphiti:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 mysql:5.7 
