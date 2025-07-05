@@ -7,4 +7,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #-- mysql:5.7 
 #--platform=linux/arm64 bitnami/mysql:5.7.42 
-vllm/vllm-openai:v0.8.2
+#vllm/vllm-openai:v0.8.2
+portainer/portainer:latest
